@@ -1,9 +1,0 @@
-{
-    "wavelength_um": 20.0,
-    "radius_R": 6.371e6,
-    "cross_section_file": "CO2.dat",
-    "density_surf": 1.0e19,
-    "temperature_atm": 200.0,
-    "planet_mass": 5.972e24,
-    "planet_radius": 6.371e6
-}
